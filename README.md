@@ -4,7 +4,7 @@ This repository contains the R code for the Getting and Cleaning Data (Coursera.
 
 Files:
 (1) CodeBook.md describes the variables
-(2) run_analysis.R contains the code to perform the whole analyses. The output file is called TidySet.txt
+(2) run_analysis.R contains the code to perform the whole analyses. The output file is called "TidySet.txt"
 
 The R script firstly downloads the source data from ther link below and unzips it.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
